@@ -1,0 +1,11 @@
+Package: rAnalysis4CC
+Type: Package
+Title: Build weighted Multi-Model Ensemble Model by choosing proper GCMs
+Version: 1.0.6
+Authors@R: c(person("Jaepil Cho", role=c("aut", "cre"), email="jpcho89@gmail"), person("Imgook Jung", role="aut", email="igjung@apcc21.org"))
+Maintainer: Imgook Jung <igjung@apcc21.org>
+Description: More about what it does (maybe more than one line) Use four spaces when indenting paragraphs within the Description.
+License: GPL(>=2)
+Encoding: UTF-8
+LazyData: true
+Depends: yaml, ggplot2, PCICt, climdex.pcic, reshape, matrixStats, gstat, hydroGOF, gsubfn
